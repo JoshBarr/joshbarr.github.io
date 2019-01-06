@@ -1,0 +1,1 @@
+{"data":{"allMarkdownRemark":{"totalCount":2,"edges":[{"node":{"frontmatter":{"title":"Making a hash of it","path":"/blog/first-post"}}},{"node":{"frontmatter":{"title":"How we migrated Xero to Webpack","path":"/blog/how-we-migrated-xero-to-webpack"}}}]}},"pageContext":{"tag":"CI/CD"}}

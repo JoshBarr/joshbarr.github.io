@@ -1,2 +1,0 @@
-# joshbarr.com
-public website.
